@@ -1,0 +1,51 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "bf6aa1f7-ffa9-406a-8715-fd2cf664abcb"
+      },
+      "event2": {
+        "uuid": "fd7547dc-ac76-40ac-9d3d-27d644f37a1b"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lets check one thing"
+        }
+      ]
+    }
+  ],
+  "title": "Page full of crap",
+  "parent": "12bec65e-2365-4275-8d3e-5f104f363257",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "page-full-of-crap",
+  "created_at": "2024-11-04T20:32:19.845Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2024-11-04T20:32:19.845Z",
+  "updated_by": "jackDeVry"
+}
