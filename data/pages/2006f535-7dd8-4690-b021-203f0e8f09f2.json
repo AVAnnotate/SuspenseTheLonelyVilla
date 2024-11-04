@@ -4,11 +4,11 @@
   "created_by": "jackDeVry",
   "title": "The Lonely Villa Film",
   "slug": "the-lonely-villa-fil",
-  "updated_at": "2024-11-04T20:27:24.840Z",
+  "updated_at": "2024-11-04T20:27:45.262Z",
   "updated_by": "jackDeVry",
   "parent": "ccc5f5c5-9284-4bcd-ac03-19db8bd7e1df",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "fd7547dc-ac76-40ac-9d3d-27d644f37a1b"
   }
