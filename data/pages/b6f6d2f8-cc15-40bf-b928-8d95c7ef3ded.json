@@ -1,0 +1,56 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "bf6aa1f7-ffa9-406a-8715-fd2cf664abcb",
+        "start": 70,
+        "end": 130,
+        "file": "a8a74256-9b1b-47e7-8034-a213a9a599e1"
+      },
+      "event2": {
+        "uuid": "fd7547dc-ac76-40ac-9d3d-27d644f37a1b",
+        "start": 80,
+        "end": 200,
+        "file": "13a62060-c588-4ab0-a901-eea2e5d699c0"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "COOL BEANS"
+        }
+      ]
+    }
+  ],
+  "title": "Bob vs Steve",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "bob-vs-steve",
+  "created_at": "2024-11-14T18:25:21.657Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2024-11-14T18:25:21.657Z",
+  "updated_by": "jackDeVry"
+}
