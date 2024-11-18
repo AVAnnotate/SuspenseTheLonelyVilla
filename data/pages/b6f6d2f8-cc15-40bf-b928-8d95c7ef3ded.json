@@ -38,19 +38,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "COOL BEANS"
+          "text": "Voilà"
         }
       ]
     }
   ],
-  "title": "Bob vs Steve",
+  "title": "Experimentation Page! 2 sided comparison!",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "bob-vs-steve",
+  "slug": "experimentation-page-2-sided-comparison",
   "created_at": "2024-11-14T18:25:21.657Z",
   "created_by": "jackDeVry",
-  "updated_at": "2024-11-14T18:25:21.657Z",
+  "updated_at": "2024-11-18T18:49:50.689Z",
   "updated_by": "jackDeVry"
 }
