@@ -272,6 +272,279 @@
           "tag": "Roger Bingham"
         }
       ]
+    },
+    {
+      "uuid": "7b39721a-722a-483b-977d-abf34c6a968c",
+      "start_time": 11,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are in New York City"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "4b56a434-bd86-47f9-9412-d3b3c4d6bf44",
+      "start_time": 13,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We’re actually at the Lucern Hotel, just down the street"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "af53e873-ff31-4ca1-8feb-8157c4657846",
+      "start_time": 16,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "from the American Museum of Natural History"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "64b69e38-f087-469b-9efe-8391310c2922",
+      "start_time": 18,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And with me is Neil deGrasse Tyson"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "ac35612f-1ef8-4c46-ad1b-74a7ff913fee",
+      "start_time": 20,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Astrophysicist, Director of the Hayden Planetarium"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "51b0c4b6-89e8-4e86-9614-14d2ac97c42c",
+      "start_time": 22,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "at the AMNH."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "794a0cef-0aa6-41b8-bb82-4c23a874b056",
+      "start_time": 24,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for walking down here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "6faf3ab7-fcdb-4c6e-b290-721137e0d982",
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I want to do a follow-up on the last conversation we did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "89baf6f5-3486-4300-b441-ddb3724b3fc5",
+      "start_time": 30,
+      "end_time": 31.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we e-mailed—"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "7e463dae-65d8-4164-89e7-7ae9bfd0f271",
+      "start_time": 30.5,
+      "end_time": 32.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Didn’t we talk about enough in that conversation?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Neil deGrasse Tyson"
+        }
+      ]
+    },
+    {
+      "uuid": "ce190295-052f-4099-958c-bbc84b51e461",
+      "start_time": 32,
+      "end_time": 35.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No! No no no no; 'cos 'cos obviously 'cos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
+    },
+    {
+      "uuid": "6ff2ff85-e388-4f12-92bc-fe9beb520a18",
+      "start_time": 32.5,
+      "end_time": 33.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Neil deGrasse Tyson"
+        }
+      ]
+    },
+    {
+      "uuid": "3faa3b33-9bd4-4bf6-9824-45ce6b725537",
+      "start_time": 35.5,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know I’m so excited my glasses are falling off here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Roger Bingham"
+        }
+      ]
     }
   ],
   "set": "Default",
