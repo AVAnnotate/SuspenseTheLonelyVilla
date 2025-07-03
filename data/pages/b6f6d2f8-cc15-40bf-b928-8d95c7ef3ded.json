@@ -61,6 +61,7 @@
   "slug": "comparison-page",
   "created_at": "2024-11-14T18:25:21.657Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-07-03T14:09:12.300Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2025-07-03T14:09:27.364Z",
+  "updated_by": "tanyaclement",
+  "parent": "ccc5f5c5-9284-4bcd-ac03-19db8bd7e1df"
 }
