@@ -4,7 +4,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Voilà!"
+          "text": "This page presents a comparison between D.W. Griffith’s "
+        },
+        {
+          "text": "The Lonely Villa",
+          "italic": true
+        },
+        {
+          "text": " and Lois Weber’s "
+        },
+        {
+          "text": "Suspense",
+          "italic": true
+        },
+        {
+          "text": ". While each film holds its own artistic and historical value, it is in the side-by-side viewing that their contrasts—and Weber’s innovations—truly emerge. By reimagining a similar plot, "
+        },
+        {
+          "text": "Suspense",
+          "italic": true
+        },
+        {
+          "text": " elevates the material through dynamic camera angles, a departure from static proscenium-style long shots, and a range of experimental techniques that push the boundaries of early cinematic language"
         }
       ]
     },
@@ -53,15 +74,15 @@
       ]
     }
   ],
-  "title": "Comparison Page",
+  "title": "Suspense & Lonely Villa Comparison ",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "comparison-page",
+  "slug": "suspense-and-lonely-villa-comparison",
   "created_at": "2024-11-14T18:25:21.657Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-07-03T14:09:27.364Z",
-  "updated_by": "tanyaclement",
+  "updated_at": "2025-07-09T18:25:59.599Z",
+  "updated_by": "jackDeVry",
   "parent": "ccc5f5c5-9284-4bcd-ac03-19db8bd7e1df"
 }
